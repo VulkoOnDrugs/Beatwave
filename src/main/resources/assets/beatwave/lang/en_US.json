@@ -1,0 +1,7 @@
+{
+  "item.beatwave.radio": "radio",
+  "item.beatwave.mp3_player": "mp3 Player",
+
+  "block.beatwave.radio_block": "radio_block",
+  "block.beatwave.mp3_player_block": "mp3 player"
+}
